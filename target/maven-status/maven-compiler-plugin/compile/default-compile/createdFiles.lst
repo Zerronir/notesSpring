@@ -1,0 +1,4 @@
+com\esliceu\demoSpring\config\AnnotationWebAppInitializer.class
+com\esliceu\demoSpring\config\AppConfig.class
+com\esliceu\demoSpring\model\User.class
+com\esliceu\demoSpring\controllers\AppController.class
